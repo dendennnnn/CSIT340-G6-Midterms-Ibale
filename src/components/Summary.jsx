@@ -1,3 +1,8 @@
+ 
+ function Summary({ seats, months}) {
+
+ return (
+ 
  <header>
           <h2 className="text-6xl font-bold">Build your plan</h2>
           <p className="mt-4 text-3xl text-[#CB2957]">
@@ -5,3 +10,8 @@
           </p>
           <p className="mt-2 text-xl">Danielle Ben Ibale</p>
         </header>
+ );
+ }
+
+ export default Summary;
+ 
