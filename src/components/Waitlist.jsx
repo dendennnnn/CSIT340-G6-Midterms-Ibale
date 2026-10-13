@@ -1,3 +1,9 @@
+
+
+
+
+
+
 jsxs("div", {
     className:
     "mx-20 mt-8 fkex items-center justify-between rounded-xl border-2 border-[#000000] bg-[#EEEEEE] p-6",
@@ -33,3 +39,6 @@ jsxs("div", {
 }),
 ],
 });
+
+
+export default Waitlist;
